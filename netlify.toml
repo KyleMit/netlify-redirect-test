@@ -1,10 +1,9 @@
 [build]
   publish = "_site"
 
-[[redirects]]
-  from = "/index.html"
-  to = "/default.html"
 
 [[redirects]]
   from = "/"
   to = "/default.html"
+  force = true
+  status = 200
