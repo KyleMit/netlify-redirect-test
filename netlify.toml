@@ -2,5 +2,5 @@
   publish = "_site"
 
 [[redirects]]
-  from = "/"
+  from = "/index.html"
   to = "/default.html"
