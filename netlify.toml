@@ -6,4 +6,4 @@
   from = "/"
   to = "/default.html"
   force = true
-  status = 301
+  status = 200
